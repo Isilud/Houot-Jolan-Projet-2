@@ -19,7 +19,7 @@ public class AnalyticsCounter {
   }
 
   /** 
-  * Fetch the symptoms list.
+  * Fetch the symptoms list  .
   * @author Jolan
   * @return symptoms as list of string
   */
